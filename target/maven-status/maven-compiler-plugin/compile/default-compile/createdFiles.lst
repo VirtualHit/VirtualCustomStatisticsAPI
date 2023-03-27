@@ -1,0 +1,5 @@
+es\virtualhit\virtualcustomstatisticsapi\user\User.class
+es\virtualhit\virtualcustomstatisticsapi\user\statistic\IntegerStatistic.class
+es\virtualhit\virtualcustomstatisticsapi\user\statistic\Statistic.class
+es\virtualhit\virtualcustomstatisticsapi\user\statistic\StatisticType.class
+es\virtualhit\virtualcustomstatisticsapi\VirtualCustomStatisticsAPI.class
